@@ -1,0 +1,28 @@
+D:\Интеджер\Task3\Task3\bin\Debug\net8.0\Task3.exe
+D:\Интеджер\Task3\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Интеджер\Task3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Интеджер\Task3\Task3\bin\Debug\net8.0\Task3.dll
+D:\Интеджер\Task3\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.dll
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Интеджер\Task3\Task3\obj\Debug\net8.0\ref\Task3.dll
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\bin\Debug\net8.0\Task3.exe
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\bin\Debug\net8.0\Task3.dll
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.dll
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Интеджер\Тестовое задание Форсбакка Мария\Task3\Task3\obj\Debug\net8.0\ref\Task3.dll
